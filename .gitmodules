@@ -1,0 +1,9 @@
+[submodule "simulation/robust_distributed_slam_simulation"]
+	path = simulation/robust_distributed_slam_simulation
+	url = https://github.com/lajoiepy/robust_distributed_slam_simulation.git
+[submodule "tx2-setup/robust_pose_graph_optimization"]
+	path = tx2-setup/robust_pose_graph_optimization
+	url = https://github.com/lajoiepy/robust_distributed_slam_module.git
+[submodule "tx2-setup/slam_front_end"]
+	path = tx2-setup/slam_front_end
+	url = https://github.com/bramtoula/multi_robot_SLAM_separators.git
