@@ -2,7 +2,7 @@
 
 [Documentation here!](https://mistlab.ca/DOOR-SLAM/)
 
-[<img src="docs/doorslam.png" width="960" height="540" />](http://www.youtube.com/watch?v=h0bqURQlZGA "DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams")
+[<img src="docs/doorslam.png" width="640" height="360" />](http://www.youtube.com/watch?v=h0bqURQlZGA "DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams")
 
 If you reuse parts of this work, please cite:
 ```
