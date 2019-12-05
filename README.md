@@ -2,7 +2,7 @@
 
 [Documentation here!](https://mistlab.ca/DOOR-SLAM/)
 
-[![DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams](http://img.youtube.com/vi/h0bqURQlZGA/0.jpg)](http://www.youtube.com/watch?v=h0bqURQlZGA "DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams")
+[![DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams](doorslam.png)](http://www.youtube.com/watch?v=h0bqURQlZGA "DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams")
 
 If you reuse parts of this work, please cite:
 ```
