@@ -1,5 +1,7 @@
 # Detailed Setup
 <!-- Front-End and Back-end are independent -->
+<!-- Front-End maintainer: Benjamin Ramtoula -->
+<!-- Back-End maintainer: Pierre-Yves Lajoie -->
 
 ## Front-End
 

@@ -1,5 +1,6 @@
 # DOOR-SLAM
 
+[Read the paper!](https://arxiv.org/abs/1909.12198)
 [Documentation here!](https://mistlab.ca/DOOR-SLAM/)
 
 [<img src="docs/doorslam.png" width="640" height="360" />](http://www.youtube.com/watch?v=h0bqURQlZGA "DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams")
