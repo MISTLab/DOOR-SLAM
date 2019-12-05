@@ -1,1 +1,2 @@
-Hello welcome to DOOR-SLAM!
+# Welcome to the DOOR-SLAM documentation website!
+
