@@ -11,7 +11,10 @@ should look at the [detailed setup](detailed_setup.md).
 <!-- Computer basic setup (link to other file) -->
 
 <!-- Pull docker images -->
+Docker image: `lajoiepy/doorslam-realsensed435-tx2-dji`
 
 <!-- Install bash commands -->
 
 <!-- Sequence of bash commands to run -->
+
+Reboot between each run
