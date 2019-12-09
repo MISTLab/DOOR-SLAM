@@ -1,6 +1,7 @@
-#### Batman
+# B.A.T.M.A.N Routing Protocol
+First you need some [additional kernel modules](kernel_module.md).
 
-Now to use batman:
+Then to use batman:
 ```
 sudo batctl if add ra0
 sudo ip link set up dev bat0

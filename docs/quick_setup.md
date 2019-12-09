@@ -9,6 +9,8 @@ should look at the [detailed setup](detailed_setup.md).
 - [DJI Matrice 100](https://www.dji.com/ca/matrice100?gclid=CjwKCAiA8qLvBRAbEiwAE_ZzPUsslCzK26_TNCYhazw-pswp8oyLU29d8VnYrAOUlDPAR7XsSxS3gxoC0noQAvD_BwE)
 
 <!-- Computer basic setup (link to other file) -->
+# NVIDIA Jetson TX2 Setup 
+[TX2 Basic Setup](tx2_setup.md)
 
 <!-- Pull docker images -->
 Docker image: `lajoiepy/doorslam-realsensed435-tx2-dji`

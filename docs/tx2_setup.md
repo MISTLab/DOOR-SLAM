@@ -8,3 +8,9 @@ We suggest to follow the steps in order, but you can skip some according to your
 ## Steps
 - [Flash Jetpack 4.2](flash_jetpack4_2.md)
 - [Connectech Elroy Carrier Board](connecttech_elroy.md)
+- [Docker + GPU](gpu_docker.md)
+- [Intel Realsense Camera](realsense_setup.md)
+- [Additional Packages](additional_pkgs.md)
+- [TP-Link Archer T2UH networking dongle](archer_dongle.md) (Optional)
+- [B.A.T.M.A.N. ad-hoc network routing protocol](batman_setup.md) (Optional)
+- [WiFi](wifi_setup.md) (Optional)
