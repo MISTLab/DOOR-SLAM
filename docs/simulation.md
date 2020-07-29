@@ -37,12 +37,11 @@ argos3 -c robust_distributed_slam_random_walk.argos
 
 Press the simulator play button.
 
-## Simulation Explanations
+[//]: # (## Simulation Explanations
 Visual output
 The simulation presents 
-
 ARGoS logs
-log file results
+log file results)
 
 ## Bonus: If you want to edit the code and configs
 Start a shell in the container and run the following command that will start VSCode.
