@@ -7,21 +7,16 @@
 
 If you reuse parts of this work, please cite:
 ```
-Pierre-Yves Lajoie, Benjamin Ramtoula, Yun Chang, Luca Carlone, 
-and Giovanni Beltrame,
-“DOOR-SLAM: Distributed, online, and outlier resilient SLAM for robotic teams,” 
-Tech. Rep., 2019, arXiv preprint: 1909.12198.
+P.-Y. Lajoie, B. Ramtoula, Y. Chang, L. Carlone, and G. Beltrame, “DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1656–1663, Apr. 2020, doi: 10.1109/LRA.2020.2967681.
 ```
 BibTex:
 ```
-@misc{lajoie2019doorslam,
-    title={DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM 
-    for Robotic Teams},
-    author={Pierre-Yves Lajoie and Benjamin Ramtoula and Yun Chang and 
-    Luca Carlone and Giovanni Beltrame},
-    year={2019},
-    eprint={1909.12198},
-    archivePrefix={arXiv},
-    primaryClass={cs.RO}
-}
+@ARTICLE{Lajoie2020DOORSLAM,  
+author={P. {Lajoie} and B. {Ramtoula} and Y. {Chang} and L. {Carlone} and G. {Beltrame}},  
+journal={IEEE Robotics and Automation Letters},   
+title={DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams},   
+year={2020},  
+volume={5},  
+number={2},  
+pages={1656-1663},}
 ```
