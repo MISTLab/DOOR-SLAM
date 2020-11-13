@@ -48,3 +48,6 @@ Start a shell in the container and run the following command that will start VSC
 ```
 code --user-data-dir
 ```
+
+## Details
+More details on how to build the image are available [here](simulation_details.md).
