@@ -8,13 +8,14 @@ experiments.
 - [DJI Matrice 100](https://www.dji.com/ca/matrice100?gclid=CjwKCAiA8qLvBRAbEiwAE_ZzPUsslCzK26_TNCYhazw-pswp8oyLU29d8VnYrAOUlDPAR7XsSxS3gxoC0noQAvD_BwE)
 
 <!-- Computer basic setup (link to other file) -->
-# NVIDIA Jetson TX2 Setup 
-[TX2 Basic Setup](tx2_setup.md)
+# Setup 
+Follow the following instructions to setup each robot computer:
+[TX2 Basic Setup](tx2_setup.md).
 
 <!-- Pull docker images -->
-Docker image: `lajoiepy/doorslam-realsensed435-tx2-dji`
+Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-tx2-dji`
 
-## Launch commands
+# Launch commands
 <!-- Install bash commands -->
 - First you need to setup the [aliases and high-level parameters](https://github.com/bramtoula/multi_robot_SLAM_separators/blob/2ce1fa45107e92bde5329d023565cf5eebe26004/docker/camera_and_slam_tx2/aliases.txt).
     - MASK & OWN_IP: IP address info `192.168.MASK.OWN_IP`.
