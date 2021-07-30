@@ -52,5 +52,5 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
 ## Good luck and have fun!
 
 ## Building the Docker image for TX2
-To build the Docker image yourself to replicate or exact setup, use this Dockerfile and instructions: https://github.com/bramtoula/multi_robot_SLAM_separators/tree/master/docker/camera_and_slam_tx2
+To build the Docker image yourself to replicate our exact setup, use this Dockerfile and instructions: https://github.com/bramtoula/multi_robot_SLAM_separators/tree/master/docker/camera_and_slam_tx2
 
