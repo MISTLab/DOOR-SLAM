@@ -50,3 +50,7 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
     - `cleancache` : Cleans the TX2 cache. This usually has a positive effect on the computer performance. We recommend to run it often.
 
 ## Good luck and have fun!
+
+## Building the Docker image for TX2
+To build the Docker image yourself to replicate or exact setup, use this Dockerfile: https://github.com/bramtoula/multi_robot_SLAM_separators/tree/master/docker/camera_and_slam_tx2
+
