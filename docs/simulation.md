@@ -7,7 +7,7 @@ inter-robot loop closures outliers rejection technique.
 
 Since the setup is quite complex we provide a Docker Image 
 `lajoiepy/doorslam-argos-simulation` to easily run the simulation. Although we
-don't recommend it, you can look at the [Dockerfile]() for the setup 
+don't recommend it, you can look at the [Dockerfile](https://github.com/lajoiepy/robust_distributed_slam_simulation/blob/master/docker/devel/Dockerfile) for the setup 
 instructions.
 
 The following instructions indicate how to start the simulation.
