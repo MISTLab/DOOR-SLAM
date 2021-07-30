@@ -17,7 +17,7 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
 
 # Launch commands
 <!-- Install bash commands -->
-- First you need to setup the [aliases and high-level parameters](https://github.com/MISTLab/DOOR-SLAM/tree/master/tx2-setup/docker/instructions.md).
+- First you need to setup the [aliases and high-level parameters](https://github.com/MISTLab/DOOR-SLAM/tree/master/tx2-setup/docker/aliases.txt).
     - MASK & OWN_IP: IP address info `192.168.MASK.OWN_IP`.
     - MASTER: OWN_IP of the robot with the ROS master.
     - LOCAL_ROBOT_ID: Robot ID (from 0 to 2)
