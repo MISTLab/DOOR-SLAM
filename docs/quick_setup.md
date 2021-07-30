@@ -17,7 +17,7 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
 
 # Launch commands
 <!-- Install bash commands -->
-- First you need to setup the [aliases and high-level parameters](https://github.com/bramtoula/multi_robot_SLAM_separators/blob/2ce1fa45107e92bde5329d023565cf5eebe26004/docker/camera_and_slam_tx2/aliases.txt).
+- First you need to setup the [aliases and high-level parameters](../tx2-setup/docker/instructions.md).
     - MASK & OWN_IP: IP address info `192.168.MASK.OWN_IP`.
     - MASTER: OWN_IP of the robot with the ROS master.
     - LOCAL_ROBOT_ID: Robot ID (from 0 to 2)
@@ -25,7 +25,7 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
     - The other parameters do not need to be modified. Look to the paper for more details on those parameters.
 
 
-- Make sure [this script](https://github.com/bramtoula/multi_robot_SLAM_separators/blob/2ce1fa45107e92bde5329d023565cf5eebe26004/docker/camera_and_slam_tx2/entrypoint.sh) is at the root level to run the commands.
+- Make sure [this script](../tx2-setup/docker/entrypoint.sh) is at the root level to run the commands.
 
 - A typical sequence:
     - Robot 0: `camera`, `blabbermouth2`, `optimization`, `separators`
@@ -46,11 +46,12 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
     - `record` : Launches the data recording using rosbags.
     - `docker_bash` : Launches the Docker container and open a bash command line in it.
     - `bag_sep` : Launches the inter-robot loop closures detection process with a rosbag dataset (not using the camera).
-    - `bag_sep_params` : Launches the inter-robot loop closures detection process with a rosbag dataset (not using the camera). Uses the parameters set [here](https://github.com/bramtoula/multi_robot_SLAM_separators/blob/2ce1fa45107e92bde5329d023565cf5eebe26004/docker/camera_and_slam_tx2/aliases.txt) instead of the default ones.
+    - `bag_sep_params` : Launches the inter-robot loop closures detection process with a rosbag dataset (not using the camera). Uses the parameters set [here](../tx2-setup/docker/aliases.txt) instead of the default ones.
     - `cleancache` : Cleans the TX2 cache. This usually has a positive effect on the computer performance. We recommend to run it often.
 
 ## Good luck and have fun!
 
 ## Building the Docker image for TX2
-To build the Docker image yourself to replicate our exact setup, use this Dockerfile and instructions: https://github.com/bramtoula/multi_robot_SLAM_separators/tree/master/docker/camera_and_slam_tx2
+To build the Docker image yourself to replicate our exact setup, use this
+[Dockerfile and instructions](https://github.com/MISTLab/DOOR-SLAM/tx2-setup/docker/)
 
