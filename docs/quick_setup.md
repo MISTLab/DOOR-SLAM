@@ -53,5 +53,5 @@ Pull the following Docker image on each robot: `lajoiepy/doorslam-realsensed435-
 
 ## Building the Docker image for TX2
 To build the Docker image yourself to replicate our exact setup, use this
-[Dockerfile and instructions](https://github.com/MISTLab/DOOR-SLAM/tx2-setup/docker/)
+[Dockerfile and instructions](https://github.com/MISTLab/DOOR-SLAM/tree/master/tx2-setup/docker)
 
