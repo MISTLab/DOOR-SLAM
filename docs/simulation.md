@@ -2,7 +2,7 @@
 
 Welcome to the ARGoS multi-robot slam simulation.
 The goal of this simulation is to showcase our distributed implementation of the
-Gauss-Seidel pose graph otimization technique combined with our distributed 
+Gauss-Seidel pose graph optimization technique combined with our distributed 
 inter-robot loop closures outliers rejection technique. 
 
 Since the setup is quite complex we provide a Docker Image 
