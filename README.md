@@ -1,4 +1,7 @@
-# DOOR-SLAM
+## Check out our latest work on Collaborative Multi-Robot SLAM! https://github.com/MISTLab/Swarm-SLAM
+
+
+### DOOR-SLAM
 
 [Read the paper!](https://arxiv.org/abs/1909.12198)
 [Code documentation here!](https://mistlab.ca/DOOR-SLAM/)
